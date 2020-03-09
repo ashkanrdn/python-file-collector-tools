@@ -7,7 +7,12 @@ Creator: Jeffrey Lu
 ## Introduction
 Collection of python scripts for collecting files across network drives and parsing their data to get information such as file version, creation date, and file creator.
 
-# 
+# Usage
+## Dynamo Tools
+
+ 1. Run `dynamocollector.py`to search the specified drive for files with `.dyn` file extensions.
+ 2. A .csv file with all collected file paths will be saved in C:\Logs
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjQzODY0OV19
+eyJoaXN0b3J5IjpbLTU3NzcyNjA0Nl19
 -->
