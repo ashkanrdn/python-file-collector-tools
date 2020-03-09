@@ -1,6 +1,6 @@
 # Python File Collector Tools
 
-Current Version: 2.0
+Current Version: 1.0
 Date: 3/9/2019
 Creator: Jeffrey Lu
 
@@ -43,5 +43,6 @@ Always run the collector tool first and *then* the info parser.
  4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2MDUxNTgsLTE0NzMyNjc5XX0=
+eyJoaXN0b3J5IjpbNDQ0MTgxOTQ3LC0xNzU3NjA1MTU4LC0xND
+czMjY3OV19
 -->
