@@ -11,8 +11,10 @@ Collection of python scripts for collecting files across network drives and pars
 ## Dynamo Tools
 
  1. Run `dynamocollector.py`to search the specified drive for files with `.dyn` file extensions.
- 2. A .csv file with all collected file paths will be saved in C:\Logs
+ 2. A `.csv` file with all collected file paths will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
+ 3. Run `dynamoinfoparser.py` to retrieve relevant info for all collected files. 
+ 4. A new .csv file with all retrieved info will be saved 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzcyNjA0Nl19
+eyJoaXN0b3J5IjpbMTQxNTcyMTI1Ml19
 -->
