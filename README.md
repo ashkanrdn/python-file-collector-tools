@@ -8,6 +8,8 @@ Creator: Jeffrey Lu
 Collection of python scripts for collecting files across network drives and parsing their data to get information such as file version, creation date, and file creator.
 
 # Usage
+A note on usage: **the collector tools take a long time to run**. Be patient. Do not run the collector tools during work hours to avoid any negative impact to the network. I usually will run the collector tool overnight and then run the version parser the next morning.
+
 ## Dynamo Tools
 
  1. Run `dynamocollector.py`to search the specified drive for files with `.dyn` file extensions.
@@ -38,5 +40,5 @@ Collection of python scripts for collecting files across network drives and pars
  4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyNjc5XX0=
+eyJoaXN0b3J5IjpbNjY3ODE4NDQ0LC0xNDczMjY3OV19
 -->
