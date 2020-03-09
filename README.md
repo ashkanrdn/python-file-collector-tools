@@ -16,12 +16,27 @@ Collection of python scripts for collecting files across network drives and pars
  4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
 
 ## Grasshopper Tools
+
 1. Run `grasshoppercollector.py`to search the specified drive for files with `.gh` file extensions.
  2. A `.csv` file with all collected file paths will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
  3. Run `grasshopperinfoparser.py` to retrieve relevant info for all collected files. 
  4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
 
+## Revit Tools
+
+### RFA Collector
+1. Run `rfacollector.py`to search the specified drive for files with `.rfa` file extensions.
+ 2. A `.csv` file with all collected file paths will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
+ 3. Run `rfaversionparser.py` to retrieve relevant info for all collected files. 
+ 4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
+ 
+### RVT Collector
+
+1. Run `rvtcollector.py`to search the specified drive for files with `.rvt` file extensions.
+ 2. A `.csv` file with all collected file paths will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
+ 3. Run `rvtversionparser.py` to retrieve relevant info for all collected files. 
+ 4. A new `.csv` file with all retrieved info will be saved in `C:\Logs\`. The `.csv` file name will begin with today's date.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NDg2ODM4XX0=
+eyJoaXN0b3J5IjpbLTE0NzMyNjc5XX0=
 -->
